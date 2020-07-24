@@ -14,11 +14,12 @@
         app:layout_constraintBottom_toTopOf="@+id/button2"
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_editor_absoluteX="1dp" />
+
     <Button
         android:id="@+id/button2"
         android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="Launch Example 2"
+        android:text="View a Picture"
         app:layout_constraintBottom_toTopOf="@+id/button3"
         app:layout_constraintTop_toBottomOf="@+id/button1"
         tools:layout_editor_absoluteX="1dp" />
@@ -27,7 +28,7 @@
         android:id="@+id/button3"
         android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="Launch Example 3"
+        android:text="Calender"
         app:layout_constraintBottom_toTopOf="@+id/button4"
         app:layout_constraintTop_toBottomOf="@+id/button2"
         tools:layout_editor_absoluteX="1dp" />
@@ -35,18 +36,17 @@
         android:id="@+id/button4"
         android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="Launch Example 4"
+        android:text="@string/launch_example_4"
         app:layout_constraintBottom_toTopOf="@+id/button5"
         app:layout_constraintTop_toBottomOf="@+id/button3"
         tools:layout_editor_absoluteX="1dp" />
-
 
 
     <Button
         android:id="@+id/button5"
         android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="Launch Example 5"
+        android:text="SQLite Database"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button4"
         tools:layout_editor_absoluteX="1dp" />

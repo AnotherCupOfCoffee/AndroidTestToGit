@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">SD GIT 02</string>
+    <string name="app_name">SD APP 03 English</string>
+    <string name="empty_list_text">List is empty</string>
+    <string name="enter_title">Topic</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="add_record">New Record</string>
+    <string name="enter_desc">Detais</string>
+    <string name="title_edit_entry">Edit Entry</string>
+    <string name="test_webview">Test WebView</string>
+    <string name="test_web_view">Test Web View</string>
+    <string name="urladdress">https://www.google.com</string>
+    <string name="launch_example_4">Web Browser</string>
 </resources>

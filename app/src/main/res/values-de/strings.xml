@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SD APP 03 Deutsch</string>
+    <string name="empty_list_text">Liste ist LEER</string>
+    <string name="enter_title">Stichwort eingeben</string>
+    <string name="btn_update">Speichern</string>
+    <string name="add_record">Neuer Datensatz</string>
+    <string name="enter_desc">Description</string>
+    <string name="btn_delete">Löschen</string>
+    <string name="title_edit_entry">Bearbeiten</string>
+    <string name="test_webview">Test WebView</string>
+    <string name="test_web_view">Test Web View</string>
+    <string name="urladdress">https://www.google.com</string>
+    <string name="launch_example_4">Web Browser</string>
+</resources>
